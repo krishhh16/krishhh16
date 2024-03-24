@@ -43,4 +43,4 @@ _"The more I read, the more I acquire, the more certain I am that I know nothing
 📫 Reach out: krishh16@yahoo.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krishna-tripathi-101840255/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Krishna88695)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dev_krishhh)
