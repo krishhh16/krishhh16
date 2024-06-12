@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/628/908/HD-wallpaper-ayanokoji-kiyotaka-ayanokouji-classroom-of-elite.jpg" alt="Profile Image" width="150" height="150">
+  <a href="https://app.daily.dev/krishhh16"><img src="https://api.daily.dev/devcards/v2/paKgKFUwuKg515ZzTHkkB.png?r=ez8&type=default" width="356" alt="Krishna's Dev Card"/></a>
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile</h1>
