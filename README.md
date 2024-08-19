@@ -1,46 +1,20 @@
-<p align="center">
-  <a href="https://app.daily.dev/krishhh16"><img src="https://api.daily.dev/devcards/v2/paKgKFUwuKg515ZzTHkkB.png?r=ez8&type=default" width="356" alt="Krishna's Dev Card"/></a>
-</p>
+# Hi, I'm Zeref 👋
 
-<h1 align="center">Welcome to My GitHub Profile</h1>
+## About Me
 
-<p align="center">Exploring the Worlds of Blockchain, Cybersecurity, and Literature</p>
+- 🚀 Interested in building and hacking technologies
+- 🧠 Into AI, Web3, and Cybersecurity
+- 📚 Self-taught developer and hacker
+- 🏅 Top 10% hacker on the Try Hack Me platform
 
----
+## Skills
 
-## Who Am I?
+- **AI & Machine Learning:** Experienced with various AI and ML technologies.
+- **Web3 & Blockchain:** Proficient in smart contract development and decentralized technologies.
+- **Cybersecurity:** Passionate about security; constantly improving my skills in ethical hacking and penetration testing.
+- **Programming Languages:** Comfortable with languages like Python, Typescript, Solidity, Rust, and C.
+- **Full-Stack Development:** Knowledgeable in building web applications using modern frameworks.
 
-I am an avid explorer of the complex realms of blockchain and cybersecurity. By day, I am a professional dedicated to securing the digital landscape. By night, I am an enthusiast seeking innovative solutions to the challenges of the blockchain world.
+## Let's Connect
 
-In addition to my technical pursuits, I am a passionate reader of books and novels. One of my favorites is "Think" by Simon Blackburn, a book that delves into the art of critical thinking and the philosophical exploration of ideas.
-
----
-
-## What Can You Find Here?
-
-On this GitHub profile, you'll find repositories related to blockchain, cybersecurity, and other technology-driven endeavors. Explore my work, analyze my code, and gain insights into the intricate world of distributed ledgers and digital security.
-
-You may also discover occasional notes and reflections on literature, philosophy, and the broader spectrum of knowledge.
-
----
-
-## Join the Exploration
-
-If you share my interests in the world of technology, cryptography, or the magic of literature, feel free to connect and collaborate. Together, we can navigate the complexities of this ever-evolving digital world.
-
----
-
-<p align="center">
-  <img src="https://your-image-url.com/your-gif.gif" alt="Image" width="300" height="150">
-</p>
-
-Stay curious and committed to the pursuit of knowledge.
-
----
-
-_"The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire_
-
-📫 Reach out: krishh16@yahoo.com
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krishna-tripathi-101840255/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dev_krishhh)
+- [Twitter](https://x.com/dev_krishhh)
