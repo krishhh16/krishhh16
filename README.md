@@ -6,6 +6,7 @@
 - Exploring AI, Web3, and Cybersecurity.
 - Self-taught developer, continually refining skills.
 - Ranked in the top 10% on Try Hack Me.
+- Won a grant by Solana & CoinDCX for BountySpread
 
 ## Skills
 
